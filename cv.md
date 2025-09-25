@@ -1,12 +1,12 @@
 # Resume
 ********************
-## Raxmatulin Arslan 
+## Raxmatulin Arslan.
 *********************
-### discord: goosegoose_3000
-### telegram: Goosten1 
-### number phone: +998 901761070
+### discord: goosegoose_3000.
+### telegram: Goosten1.
+### number phone: +998 901761070.
 *********************************
-### I have some programming skills
+### I have some programming skills.
 *********************************
 <p class-"Hi"> hi world </p>
 <style> 
@@ -17,4 +17,5 @@ weight: 25px;
 </style>
 
 *********************************
-### i have some english skills
+### i have some english skills.
+#### CV доступно по ссылке: https://FLAH11248.github.io/rsschool-cv/cv
