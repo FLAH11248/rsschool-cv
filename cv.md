@@ -18,4 +18,4 @@ weight: 25px;
 
 *********************************
 ### i have some english skills.
-#### CV доступно по ссылке: https://FLAH11248.github.io/rsschool-cv/cv
+
