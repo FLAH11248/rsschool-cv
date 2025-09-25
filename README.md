@@ -1,2 +1,1 @@
-
-####CV здесь:https://GITHUB-USERNAME.github.io/rsschool-cv/cv
+CV здесь: https://GITHUB-USERNAME.github.io/rsschool-cv/cv
