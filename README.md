@@ -1,2 +1,2 @@
 # rsschool-cv
-CV доступно здесь: https://GITHUB-USERNAME.github.io/rsschool-cv/cv
+CV доступно здесь: https://FLAH11248.github.io/rsschool-cv/cv
